@@ -15,7 +15,7 @@ ul li {
 
 a, a:hover, a:focus {
     text-decoration: none;
-    outline: none;
+    outline: none;  
 }
 
 ::selection {
@@ -87,7 +87,7 @@ ul.sidebar-menu , ul.sidebar-menu li ul.sub{
 }
 
 ul.sidebar-menu {
-    margin-top: 75px;
+    margin-top: 70px;
 }
 
 #sidebar > ul > li > ul.sub {
@@ -1113,3 +1113,33 @@ label {
     background: #ffffff;
     box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
 }
+/**************************Personal styles********************/
+/**{
+    outline: 1px solid red;
+}*/
+#sidebar img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+#topbar{
+    background: #424a5d;
+    height: 70px;
+    border-bottom: 1px solid black;
+}
+#topbar a{
+    color: #ffffff;
+    font-size: 16px;
+}
+.top-menu{
+    height: 50px;
+    padding-top-top: 15px;
+}
+#menu{
+    margin-top: 20px;
+}
+.inline{
+    display: inline;
+}   
