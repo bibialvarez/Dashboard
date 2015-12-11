@@ -1114,9 +1114,9 @@ label {
     box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
 }
 /**************************Personal styles********************/
-/**{
+*{
     outline: 1px solid red;
-}*/
+}
 #sidebar img{
     height: 80px;
     width: 80px;
@@ -1143,3 +1143,21 @@ label {
 .inline{
     display: inline;
 }   
+.mg4020{
+    margin: 40px 60px 0 20px;
+}
+.text-gray{
+    color: #aeb2b7
+}
+.bt{
+    border-top: 1px solid #eee;
+}
+.bg-white{
+    background: white;
+}
+.mg20{
+    margin: 20px;
+}
+.pd20{
+    padding: 20px;
+}
