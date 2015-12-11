@@ -1161,3 +1161,7 @@ label {
 .pd20{
     padding: 20px;
 }
+.pd20 i{
+    font-weight: 50;
+    color: white;
+}
