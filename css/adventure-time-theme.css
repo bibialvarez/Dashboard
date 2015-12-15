@@ -1162,6 +1162,10 @@ label {
     padding: 20px;
 }
 .pd20 i{
-    font-weight: 50;
+    font-size: 15px;
     color: white;
+}
+.thumb img {
+    width: 35px;
+    height: 35px;
 }
