@@ -1114,15 +1114,15 @@ label {
     box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
 }
 /**************************Personal styles********************/
-*{
-    outline: 1px solid red;
-}
 #sidebar img{
     height: 80px;
     width: 80px;
     border-radius: 50%;
     display: block;
     margin: 0 auto;
+}
+.size25{
+    font-size: 25px;
 }
 #topbar{
     background: #424a5d;
@@ -1143,8 +1143,8 @@ label {
 .inline{
     display: inline;
 }   
-.mg4020{
-    margin: 40px 60px 0 20px;
+.main-content .mg20 .col-md-2,.main-content .mg20 .col-md-3,.main-content .mg20 .col-md-4{
+    border-top: 1px solid red;
 }
 .text-gray{
     color: #aeb2b7
@@ -1157,6 +1157,9 @@ label {
 }
 .mg20{
     margin: 20px;
+}
+.pd10{
+    padding: 10px;
 }
 .pd20{
     padding: 20px;
